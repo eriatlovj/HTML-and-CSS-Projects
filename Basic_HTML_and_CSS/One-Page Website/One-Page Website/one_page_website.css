@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+input {
+    width: 100%
+}
+
+input[type=text] {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
